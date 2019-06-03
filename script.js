@@ -1,4 +1,4 @@
-document.getElementById("timer").innerHTML = 01 + ":" + 00;
+document.getElementById("timer").innerHTML = 60 + ":" + 00;
 startTimer();
 
 function startTimer() {
